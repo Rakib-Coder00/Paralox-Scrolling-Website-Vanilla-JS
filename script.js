@@ -26,6 +26,7 @@ window.addEventListener('scroll', ()=>{
     stars2.style.bottom = value * 0.025+ '%'
     moon.style.bottom = value * -0.5+ 'px'
     rock.style.bottom = value * -0.75+ 'px'
+    masjid.style.bottom = value * -0.15+ 'px'
 
     text.style.right = -100 + value * 0.5+ '%'
     text.style.top = 50 + value * 0.1+ '%'
